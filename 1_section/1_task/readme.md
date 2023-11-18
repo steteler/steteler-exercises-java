@@ -1,3 +1,7 @@
+# Atalhos
+
+- [JRE](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
+- [JVM](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)  
 
 # 🏛 História e Aplicações
 
