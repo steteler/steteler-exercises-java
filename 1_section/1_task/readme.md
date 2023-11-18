@@ -1,14 +1,14 @@
-# Atalhos
+# ⏩ Atalhos
 
 - [História e Aplicações](#-história-e-aplicações)
 - [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
-- [Diagramas](#diagrama-jdk-jre-e-jvm)
+- [Diagramas](#-diagrama-jdk-jre-e-jvm)
 - [JDK](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)
 - [Javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
 - [JRE](#-jre-java-runtime-environment-ou-ambiente-de-tempo-de-execu%C3%A7%C3%A3o-java)
 - [JVM](#-jvm-java-virtual-machine-ou-m%C3%A1quina-virtual-java)  
 - [Runtime](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
-- [Referências](#refer%C3%AAncias)
+- [Referências](#-refer%C3%AAncias)
 
 # 🏛 História e Aplicações
 
@@ -32,7 +32,7 @@ O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, 
 
 Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
 
-# Diagrama JDK, JRE e JVM
+# 📊 Diagrama JDK, JRE e JVM
 
 Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
 
@@ -82,6 +82,6 @@ A JVM também administra recursos como memória e processamento, garantindo que 
 
 Basicamente, o runtime é quando o código Java está em execução na JVM.
 
-# Referências
+# 🔗 Referências
 
 - [Diagrama JDK, JRE e JVM](https://www.techcrashcourse.com/2017/02/difference-between-jdk-jre-and-jvm.html)
