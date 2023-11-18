@@ -22,7 +22,7 @@ O Java é conhecido por sua filosofia "write once, run anywhere" (escreva uma ve
 
 Basicamente, o Java nasceu na década de 90 e se popularizou por permitir criar programas portáteis entre diferentes plataformas.  ☕
 
-# 🛠 SDK - Software Development Kit
+# 🧰 SDK - Software Development Kit
 
 O SDK é um conjunto de ferramentas, bibliotecas e recursos necessários para desenvolver software em uma determinada plataforma ou linguagem de programação.
 
@@ -40,7 +40,7 @@ Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
   <img src="images/diagram" width="100%">
 </p>
 
-# 🛠 JDK - Java Development Kit
+# 🧰 JDK - Java Development Kit
 
 O JDK é o principal SDK do Java. Ele contém todas as ferramentas necessárias para criar aplicativos Java, incluindo o compilador que converte o código que os programadores escrevem em instruções compreensíveis pela JVM.
 
