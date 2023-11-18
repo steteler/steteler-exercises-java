@@ -1,13 +1,13 @@
 # ⏩ Atalhos
 
 - [História e Aplicações](#-história-e-aplicações)
-- [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
+- [SDK](#-sdk---software-development-kit)
 - [Diagramas](#-diagrama-jdk-jre-e-jvm)
-- [JDK](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)
-- [Javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
-- [JRE](#-jre-java-runtime-environment-ou-ambiente-de-tempo-de-execu%C3%A7%C3%A3o-java)
-- [JVM](#-jvm-java-virtual-machine-ou-m%C3%A1quina-virtual-java)  
-- [Runtime](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
+- [JDK](#-jdk---java-development-kit)
+- [Javac](#%EF%B8%8F-javac---java-compiler)
+- [JRE](#-jre---java-runtime-environment)
+- [JVM](#-jvm---java-virtual-machine)  
+- [Runtime](#%EF%B8%8F-runtime---tempo-de-execu%C3%A7%C3%A3o)
 - [Referências](#-refer%C3%AAncias)
 
 # 🏛 História e Aplicações
@@ -22,7 +22,7 @@ O Java é conhecido por sua filosofia "write once, run anywhere" (escreva uma ve
 
 Basicamente, o Java nasceu na década de 90 e se popularizou por permitir criar programas portáteis entre diferentes plataformas.  ☕
 
-# 🛠 SDK (Software Development Kit ou Kit de Desenvolvimento de Software)
+# 🛠 SDK - Software Development Kit
 
 O SDK é um conjunto de ferramentas, bibliotecas e recursos necessários para desenvolver software em uma determinada plataforma ou linguagem de programação.
 
@@ -40,7 +40,7 @@ Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
   <img src="images/diagram" width="100%">
 </p>
 
-# 🛠 JDK (Java Development Kit ou Kit de desenvolvimento Java)
+# 🛠 JDK - Java Development Kit
 
 O JDK é o principal SDK do Java. Ele contém todas as ferramentas necessárias para criar aplicativos Java, incluindo o compilador que converte o código que os programadores escrevem em instruções compreensíveis pela JVM.
 
@@ -48,7 +48,7 @@ Além disso, o JDK inclui o JRE, que é necessário para executar aplicativos Ja
 
 Basicamente, o JDK provê as ferramentas essenciais para desenvolvimento Java. 
 
-# ⚙️ Javac (Java Compiler ou Compilador Java)
+# ⚙️ Javac - Java Compiler
 
 O javac é o compilador de código Java. Ele é responsável por transformar o código-fonte escrito pelos desenvolvedores em bytecode, uma linguagem de baixo nível compreensível pela JVM.
 
@@ -56,7 +56,7 @@ Este compilador faz parte do JDK, que é um conjunto de ferramentas para desenvo
 
 Basicamente, o javac compila código Java em bytecode executável pela JVM.
 
-# 💻 JRE (Java Runtime Environment ou Ambiente de Tempo de Execução Java)
+# 💻 JRE - Java Runtime Environment
 
 O JRE, ou Ambiente de Execução Java, oferece a JVM e as bibliotecas essenciais para rodar aplicativos Java que já foram compilados.
 
@@ -64,7 +64,7 @@ Normalmente, o JRE já está incluído no JDK, porém também é possível baix�
 
 Basicamente, o JRE provê o ambiente necessário para executar aplicativos Java.
 
-# 🤖 JVM (Java Virtual Machine ou Máquina Virtual Java)
+# 🤖 JVM - Java Virtual Machine
 
 A JVM, é o ambiente no qual o bytecode Java é executado. Ela faz parte do JRE, sendo essencial para rodar aplicativos Java já compilados.  
 
@@ -72,7 +72,7 @@ A função principal da JVM é interpretar e executar o bytecode gerado a partir
 
 Basicamente, a JVM interpreta e executa bytecode Java independente da plataforma.
 
-# ⏱️ Runtime (Tempo de Execução)
+# ⏱️ Runtime - Tempo de Execução
 
 O "Runtime" no Java acontece quando o código Java compilado está em ação na JVM. É o momento em que o programa Java está rodando.
 
