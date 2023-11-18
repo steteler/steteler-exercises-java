@@ -1,6 +1,7 @@
 # Atalhos
 
 - [História e Aplicações](#-história-e-aplicações)
+- [Diagrama](#-diagrama-jdk-jre-e-jvm)
 - [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
 - [JDK](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)
 - [javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
@@ -20,6 +21,14 @@ O Java é conhecido por sua filosofia "write once, run anywhere" (escreva uma ve
 
 Basicamente, o Java nasceu na década de 90 e se popularizou por permitir criar programas portáteis entre diferentes plataformas. ☕
 
+# 📊 Diagrama JDK, JRE e JVM
+
+Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
+
+<p align="center">
+  <img src="images/diagram" width="100%">
+</p>
+
 # 🧰 SDK - Software Development Kit
 
 O SDK é um conjunto de ferramentas, bibliotecas e recursos necessários para desenvolver software em uma determinada plataforma ou linguagem de programação.
@@ -29,14 +38,6 @@ No contexto do Java, o SDK mais utilizado é o JDK. Porém existe outras versõe
 O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, como o compilador (javac), o JVM, o JRE e outras utilidades para criação e depuração de programas Java.
 
 Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
-
-# 📊 Diagrama JDK, JRE e JVM
-
-Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
-
-<p align="center">
-  <img src="images/diagram" width="100%">
-</p>
 
 # 🧰 JDK - Java Development Kit
 
