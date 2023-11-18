@@ -20,15 +20,7 @@ O Java é conhecido por sua filosofia "write once, run anywhere" (escreva uma ve
 
 Basicamente, o Java nasceu na década de 90 e se popularizou por permitir criar programas portáteis entre diferentes plataformas. ☕
 
-<<<<<<< HEAD
-
 # 🧰 SDK - Software Development Kit
-
-=======
-
-# 🛠 SDK (Software Development Kit ou Kit de Desenvolvimento de Software)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
 
 O SDK é um conjunto de ferramentas, bibliotecas e recursos necessários para desenvolver software em uma determinada plataforma ou linguagem de programação.
 
@@ -37,8 +29,6 @@ No contexto do Java, o SDK mais utilizado é o JDK. Porém existe outras versõe
 O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, como o compilador (javac), o JVM, o JRE e outras utilidades para criação e depuração de programas Java.
 
 Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
-
-<<<<<<< HEAD
 
 # 📊 Diagrama JDK, JRE e JVM
 
@@ -50,27 +40,13 @@ Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
 
 # 🧰 JDK - Java Development Kit
 
-=======
-
-# 🛠 JDK (Java Development Kit ou Kit de desenvolvimento Java)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
-
 O JDK é o principal SDK do Java. Ele contém todas as ferramentas necessárias para criar aplicativos Java, incluindo o compilador que converte o código que os programadores escrevem em instruções compreensíveis pela JVM.
 
 Além disso, o JDK inclui o JRE, que é necessário para executar aplicativos Java no computador. Isso significa que, ao instalar o JDK, você obtém não apenas as ferramentas para desenvolvimento, mas também o ambiente necessário para executar programas Java no seu sistema.
 
 Basicamente, o JDK provê as ferramentas essenciais para desenvolvimento Java.
 
-<<<<<<< HEAD
-
 # ⚙️ Javac - Java Compiler
-
-=======
-
-# ⚙️ Javac (Java Compiler ou Compilador Java)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
 
 O javac é o compilador de código Java. Ele é responsável por transformar o código-fonte escrito pelos desenvolvedores em bytecode, uma linguagem de baixo nível compreensível pela JVM.
 
@@ -78,15 +54,7 @@ Este compilador faz parte do JDK, que é um conjunto de ferramentas para desenvo
 
 Basicamente, o javac compila código Java em bytecode executável pela JVM.
 
-<<<<<<< HEAD
-
 # 💻 JRE - Java Runtime Environment
-
-=======
-
-# 💻 JRE (Java Runtime Environment ou Ambiente de Tempo de Execução Java)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
 
 O JRE, ou Ambiente de Execução Java, oferece a JVM e as bibliotecas essenciais para rodar aplicativos Java que já foram compilados.
 
@@ -94,15 +62,7 @@ Normalmente, o JRE já está incluído no JDK, porém também é possível baix�
 
 Basicamente, o JRE provê o ambiente necessário para executar aplicativos Java.
 
-<<<<<<< HEAD
-
 # 🤖 JVM - Java Virtual Machine
-
-=======
-
-# 🤖 JVM (Java Virtual Machine ou Máquina Virtual Java)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
 
 A JVM, é o ambiente no qual o bytecode Java é executado. Ela faz parte do JRE, sendo essencial para rodar aplicativos Java já compilados.
 
@@ -110,15 +70,7 @@ A função principal da JVM é interpretar e executar o bytecode gerado a partir
 
 Basicamente, a JVM interpreta e executa bytecode Java independente da plataforma.
 
-<<<<<<< HEAD
-
 # ⏱️ Runtime - Tempo de Execução
-
-=======
-
-# ⏱️ Runtime (Tempo de Execução)
-
-> > > > > > > 09a954b (fix: corrigido problemas de diretórios)
 
 O "Runtime" no Java acontece quando o código Java compilado está em ação na JVM. É o momento em que o programa Java está rodando.
 
@@ -127,7 +79,6 @@ Durante esse tempo, a JVM traduz o código para que o sistema operacional possa 
 A JVM também administra recursos como memória e processamento, garantindo que o programa funcione bem e de forma segura.
 
 Basicamente, o runtime é quando o código Java está em execução na JVM.
-<<<<<<< HEAD
 
 # 🔗 Referências
 
