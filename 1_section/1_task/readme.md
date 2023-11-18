@@ -19,7 +19,7 @@ No contexto do Java, o SDK mais utilizado é o JDK. Porém existe outras versõe
 
 O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, como o compilador (javac), o JVM, o JRE e outras utilidades para criação e depuração de programas Java.
 
-Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software em uma linguagem específica.
+Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
 
 # 🛠 JDK (Java Development Kit ou Kit de desenvolvimento Java)
 
