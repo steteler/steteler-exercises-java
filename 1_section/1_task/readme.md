@@ -2,13 +2,13 @@
 
 - [História e Aplicações](#-história-e-aplicações)
 - [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
-- [Diagramas](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
+- [Diagramas](#diagrama-jdk-jre-e-jvm)
 - [JDK](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)
 - [Javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
 - [JRE](#-jre-java-runtime-environment-ou-ambiente-de-tempo-de-execu%C3%A7%C3%A3o-java)
 - [JVM](#-jvm-java-virtual-machine-ou-m%C3%A1quina-virtual-java)  
 - [Runtime](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
-- [Referências](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
+- [Referências](#refer%C3%AAncias)
 
 # 🏛 História e Aplicações
 
