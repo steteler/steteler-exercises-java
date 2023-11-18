@@ -1,12 +1,14 @@
 # Atalhos
 
 - [História e Aplicações](#-história-e-aplicações)
-- [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software) 
+- [SDK](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
+- [Diagramas](#-sdk-software-development-kit-ou-kit-de-desenvolvimento-de-software)
 - [JDK](#-jdk-java-development-kit-ou-kit-de-desenvolvimento-java)
-- [javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
+- [Javac](#%EF%B8%8F-javac-java-compiler-ou-compilador-java)
 - [JRE](#-jre-java-runtime-environment-ou-ambiente-de-tempo-de-execu%C3%A7%C3%A3o-java)
 - [JVM](#-jvm-java-virtual-machine-ou-m%C3%A1quina-virtual-java)  
 - [Runtime](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
+- [Referências](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
 
 # 🏛 História e Aplicações
 
@@ -29,6 +31,14 @@ No contexto do Java, o SDK mais utilizado é o JDK. Porém existe outras versõe
 O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, como o compilador (javac), o JVM, o JRE e outras utilidades para criação e depuração de programas Java.
 
 Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
+
+# Diagrama JDK, JRE e JVM
+
+Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
+
+<p align="center">
+  <img src="images/diagram" width="100%">
+</p>
 
 # 🛠 JDK (Java Development Kit ou Kit de desenvolvimento Java)
 
@@ -71,3 +81,7 @@ Durante esse tempo, a JVM traduz o código para que o sistema operacional possa 
 A JVM também administra recursos como memória e processamento, garantindo que o programa funcione bem e de forma segura.
 
 Basicamente, o runtime é quando o código Java está em execução na JVM.
+
+# Referências
+
+- [Diagrama JDK, JRE e JVM](https://www.techcrashcourse.com/2017/02/difference-between-jdk-jre-and-jvm.html)
