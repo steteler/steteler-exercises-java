@@ -83,4 +83,5 @@ Basicamente, o runtime é quando o código Java está em execução na JVM.
 
 # 🔗 Referências
 
+- [Trybe - Aceleração Java](https://betrybe.com/)
 - [Diagrama JDK, JRE e JVM](https://www.techcrashcourse.com/2017/02/difference-between-jdk-jre-and-jvm.html)
