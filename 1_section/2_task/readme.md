@@ -1,12 +1,12 @@
 # Atalhos
 
-- [???](#-o-que-são-classes-no-java)
-- [???](#-o-que-é-o-método-main-no-java)
-- [???](#-o-que-são-modificadores-de-acesso-no-java)
-- [???](#-comandos-iniciais-java)
-- [???](#-o-que-são-pacotes-no-java)
-- [???](#-o-que-são-classes-wrapper-em-java)
-- [???](#-referências)
+- [O que são Classes?](#-o-que-são-classes-no-java)
+- [O que é o Método Main?](#-o-que-é-o-método-main-no-java)
+- [O que são Modificadores de Acesso?](#-o-que-são-modificadores-de-acesso-no-java)
+- [O que são Pacotes?](#-o-que-são-pacotes-no-java)
+- [O que são Classes Wrappers?](#-o-que-são-classes-wrapper-em-java)
+- [Referências](#-referências)
+- [Comandos Iniciais](#️-comandos-iniciais-java)
 
 
 # 🏠 O que são classes no Java?
@@ -82,12 +82,6 @@ O `private` torna o membro visível apenas dentro da própria classe, como os c�
 O `protected` permite acesso para classes do mesmo pacote e sub-classes, um controle intermediário de acesso.
 
 
-# 🖥️ Comandos iniciais Java:
-
-- `System.out.print`: imprime um texto na saída padrão sem quebra de linha.
-- `System.out.println`: imprime um texto e depois quebra a linha.  
-- `import`: importa classes de outros pacotes Java.
-
 # 📦 O que são pacotes no Java? 
 
 **Explicação técnica:** Pacotes em Java são diretórios que agrupam classes relacionadas, fornecendo modulação
@@ -123,6 +117,13 @@ para int, comparar valores, obter valores máximos e mínimos, etc.
 
 Por exemplo, a classe Integer provê métodos úteis para o tipo primitivo int, como parseInt() para converter
 string para int e compareTo() para comparação. Assim fica mais fácil de trabalhar com esses tipos no Java.
+
+
+# 🖥️ Comandos iniciais Java:
+
+- `System.out.print`: imprime um texto na saída padrão sem quebra de linha.
+- `System.out.println`: imprime um texto e depois quebra a linha.  
+- `import`: importa classes de outros pacotes Java.
 
 # 🔗 Referências
 
