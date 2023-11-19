@@ -1,11 +1,11 @@
 # Atalhos
 
-- [???](#-o-que-são-classes-no-java?)
-- [???](#-o-que-é-o-metodo-main-no-java?)
-- [???](#-o-que-são-modificadores-de-acesso-no-java?)
-- [???](#-comandos-iniciais-java:)
-- [???](#-o-que-são-pacotes-no-java?)
-- [???](#-o-que-são-classes-wrapper-em-java?)
+- [???](#-o-que-são-classes-no-java)
+- [???](#-o-que-é-o-método-main-no-java)
+- [???](#-o-que-são-modificadores-de-acesso-no-java)
+- [???](#-comandos-iniciais-java)
+- [???](#-o-que-são-pacotes-no-java)
+- [???](#-o-que-são-classes-wrapper-em-java)
 - [???](#-referências)
 
 
