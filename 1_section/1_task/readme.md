@@ -1,4 +1,4 @@
-# Atalhos
+# Atalhos 💨
 
 - [História e Aplicações](#-história-e-aplicações)
 - [Diagrama](#-diagrama-jdk-jre-e-jvm)
