@@ -5,8 +5,8 @@
 - [O que são Modificadores de Acesso?](#-o-que-são-modificadores-de-acesso-no-java)
 - [O que são Pacotes?](#-o-que-são-pacotes-no-java)
 - [O que são Classes Wrappers?](#-o-que-são-classes-wrapper-em-java)
-- [Referências](#-referências)
 - [Comandos Iniciais](#️-comandos-iniciais-java)
+- [Referências](#-referências)
 
 
 # 🏠 O que são classes no Java?
