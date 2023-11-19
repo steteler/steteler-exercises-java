@@ -1,4 +1,4 @@
-# Atalhos
+# Atalhos 💨
 
 - [O que são Classes?](#-o-que-são-classes-no-java)
 - [O que é o Método Main?](#-o-que-é-o-método-main-no-java)
