@@ -127,4 +127,4 @@ string para int e compareTo() para comparação. Assim fica mais fácil de traba
 
 # 🔗 Referências
 
-- [Diagrama JDK, JRE e JVM](https://www.techcrashcourse.com/2017/02/difference-between-jdk-jre-and-jvm.html)
+- [Trybe - Aceleração Java](https://betrybe.com/)
