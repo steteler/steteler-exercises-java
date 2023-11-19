@@ -9,7 +9,7 @@
 - [???](#-referências)
 
 
-# :house: O que são classes no Java?
+# 🏠 O que são classes no Java?
 
 **Explicação técnica:** As classes são a estrutura básica da programação orientada a objetos em Java. Elas definem
 os atributos e comportamentos de um objeto através de variáveis e métodos. A classe funciona como um modelo a partir
@@ -39,7 +39,7 @@ A partir de uma classe podemos criar muitos objetos com as mesmas característic
 distintos, como casas construídas a partir da mesma planta, mas decoradas de forma diferente.
 
 
-# :door: O que é o método main no Java?
+# 🚪 O que é o método main no Java?
 
 **Explicação técnica:** O método main é o ponto de entrada de uma aplicação Java. Ele é o código que será
 executado quando o programa for iniciado.
@@ -62,7 +62,7 @@ No Java, o método main funciona assim: todo o código que estiver dentro dele s
 for iniciado, permitindo acessar o restante da aplicação Java a partir daí.
 
 
-# :closed_lock_with_key: O que são modificadores de acesso no Java?
+# 🔐 O que são modificadores de acesso no Java?
 
 **Explicação técnica:** Os modificadores de acesso definem a visibilidade e o escopo dos membros de
 uma classe Java (atributos, métodos, classes internas, etc). Os principais são:
@@ -82,13 +82,13 @@ O `private` torna o membro visível apenas dentro da própria classe, como os c�
 O `protected` permite acesso para classes do mesmo pacote e sub-classes, um controle intermediário de acesso.
 
 
-# :computer: Comandos iniciais Java:
+# 🖥️ Comandos iniciais Java:
 
 - `System.out.print`: imprime um texto na saída padrão sem quebra de linha.
 - `System.out.println`: imprime um texto e depois quebra a linha.  
 - `import`: importa classes de outros pacotes Java.
 
-# :package: O que são pacotes no Java? 
+# 📦 O que são pacotes no Java? 
 
 **Explicação técnica:** Pacotes em Java são diretórios que agrupam classes relacionadas, fornecendo modulação
 e evitando conflitos entre nomes de classes.
@@ -109,7 +109,7 @@ Isso ajuda a manter o projeto modularizado e as funcionalidades organizadas, al�
 nomes de classes. É como organizar a cozinha com gavetas para talheres, pratos, temperos e assim por diante.
 
 
-# :gift: O que são classes wrapper em Java?
+# 🎁 O que são classes wrapper em Java?
 
 **Explicação técnica:** As classes wrapper são versões orientadas a objeto dos tipos primitivos em Java. Elas
 "embrulham" tipos como int, double, boolean, etc em objetos, permitindo utilizar funcionalidades de classe como
