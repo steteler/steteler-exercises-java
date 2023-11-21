@@ -49,9 +49,15 @@ Basicamente, o JDK provê as ferramentas essenciais para desenvolvimento Java.
 
 # ⚙️ Javac - Java Compiler
 
+Este diagrama ilustra visualmente a relação entre o código Java, o compilador Javac e o JVM.
+
+<p align="center">
+  <img src="images/javac.png" width="100%">
+</p>
+
 O javac é o compilador de código Java. Ele é responsável por transformar o código-fonte escrito pelos desenvolvedores em bytecode, uma linguagem de baixo nível compreensível pela JVM.
 
-Este compilador faz parte do JDK, que é um conjunto de ferramentas para desenvolvimento em Java. Quando os desenvolvedores instalam o JDK, o javac está incluído, permitindo que eles convertam seu código-fonte Java em bytecode utilizável pela JVM.
+Este compilador faz parte do JDK. Quando os desenvolvedores instalam o JDK, o javac está incluído, permitindo que eles convertam seu código-fonte Java em bytecode utilizável pela JVM.
 
 Basicamente, o javac compila código Java em bytecode executável pela JVM.
 
