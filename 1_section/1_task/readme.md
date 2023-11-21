@@ -77,7 +77,7 @@ A função principal da JVM é interpretar e executar o bytecode gerado a partir
 
 Basicamente, a JVM interpreta e executa bytecode Java independente da plataforma.
 
-# ⏱️ Runtime - Tempo de Execução
+# ⏱️ Runtime Phase - Tempo de Execução
 
 O "Runtime" no Java acontece quando o código Java compilado está em ação na JVM. É o momento em que o programa Java está rodando.
 
@@ -86,6 +86,22 @@ Durante esse tempo, a JVM traduz o código para que o sistema operacional possa 
 A JVM também administra recursos como memória e processamento, garantindo que o programa funcione bem e de forma segura.
 
 Basicamente, o runtime é quando o código Java está em execução na JVM.
+
+# 📝 Editing Phase - Fase de Edição
+
+A fase de edição refere-se ao momento em que o código-fonte Java está sendo escrito e editado por desenvolvedores. Nesta fase, bugs são corrigidos, melhorias de desempenho são feitas através de refatoração, e novos recursos são adicionados ao código. Ferramentas comuns de edição incluem IDEs (Integrated Development Environments) como Eclipse, IntelliJ e NetBeans.
+
+# ☕ Java Compilation Phase - Fase de Compilação Java
+
+A fase de compilação Java pega o código-fonte .java criado na fase de edição e o traduz em bytecode Java (.class files), um formato intermediário otimizado para execução pela Java Virtual Machine (JVM). Esta tradução é feita por um compilador Java como o javac. A principal vantagem da compilação para bytecode é a portabilidade, permitindo que o mesmo código rode em qualquer plataforma com uma JVM instalada.
+
+# 📦 Packaging Phase - Fase de Empacotamento
+
+O bytecode compilado é então empacotado juntamente com metadados e recursos em arquivos .jar executáveis na JVM. Ferramentas como o jar lidam com esse empacotamento. Bibliotecas necessárias e outras dependências também podem ser agrupadas.
+
+# 💿 Installation Phase - Fase de Instalação
+
+Antes de poder ser executado, o pacote da aplicação Java precisa ser instalado no sistema. Instaladores são gerados para automatizar a instalação do software. Eles lidam com a descompactação dos arquivos, configuração do ambiente e quaisquer tarefas de pré-processamento necessárias.
 
 # 🔗 Referências
 
