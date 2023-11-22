@@ -94,3 +94,59 @@ for (Tipo item : coleção) {
   // código para cada item
 }
 ```
+
+# 🔄 Conversão de Variáveis em Java
+
+## Casting Implícito
+
+Casting implícito é a conversão automática entre tipos compatíveis: 
+
+```java
+int numero = 10;
+double decimal = numero; // implícito: int -> double
+```
+
+Outros exemplos:
+
+```java
+byte b = 10;  
+short s = b; // byte -> short   
+
+String texto = "ola";
+Object obj = texto; // subtipo -> supertipo
+```
+
+## Casting Explícito    
+
+Casting explícito requer uma conversão explícita (cast):
+
+```java
+double decimal = 10.5; 
+int numero = (int)decimal; // explícito: double -> int
+```
+
+Outros exemplos:    
+
+```java
+Object obj = new String("text");   
+String texto = (String)obj; // supertipo -> subtipo
+
+float f = 10.5F;
+long l = (long)f; // float -> long
+```
+
+## Tipos Primitivos e Não Primitivos   
+
+```java
+String texto = "10";
+int numero = Integer.parseInt(texto); // String -> int   
+
+int numero2 = 20; 
+String texto2 = String.valueOf(numero2); // int -> String  
+
+int primInt = 10;
+Integer objInt = primInt; // autoboxing
+   
+Double objDouble = 10.5;  
+double primDouble = objDouble; // unboxing
+```
