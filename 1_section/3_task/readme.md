@@ -10,7 +10,7 @@ if (condição) {
 }
 ```
 
-`if/else` : executa um bloco se a condição for verdadeira, ou outro bloco se for falsa.
+`if/else` : executa o bloco de código do **if** se a condição for verdadeira, se não for verdadeira ele executa o bloco de código do **else**.
 
 **Sintaxe:**
 
