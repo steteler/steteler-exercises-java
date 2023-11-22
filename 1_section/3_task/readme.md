@@ -52,3 +52,45 @@ switch(variável) {
     // código padrão  
 }
 ```
+
+# ♻️ Estruturas de Repetição em Java
+
+`while` : executa um bloco de código enquanto a condição for verdadeira.
+
+**Sintaxe:** 
+
+```java
+while (condição) {
+  // código a executar
+}
+```
+
+`do while` : executa um bloco de código e depois verifica a condição. O bloco é executado pelo menos uma vez.
+
+**Sintaxe:**
+
+```java
+do {
+  // código a executar 
+} while (condição);
+```
+
+`for` : loop controlado por contador. Executa um bloco de código para cada valor do contador.
+
+**Sintaxe:**
+
+```java
+for (inicialização; condição; incremento) {
+  // código a executar
+}
+```
+
+`for each` : percorre os elementos de uma coleção sem usar contador. 
+
+**Sintaxe:**
+
+```java
+for (Tipo item : coleção) {
+  // código para cada item
+}
+```
