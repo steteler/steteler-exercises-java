@@ -1,3 +1,4 @@
+````portugol
 algoritmo "Operadores em Portugol"
 
 var
