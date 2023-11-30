@@ -72,7 +72,7 @@ O construtor é como uma receita de bolo que define como cada novo bolo (objeto)
 
 **Sintaxe / Exemplo:**
 
-```
+```java
 class Pessoa {
     private String nome;
     private int idade;
@@ -127,7 +127,7 @@ Getters são como espiões que trazem informações secretas para você, e sette
 
 **Sintaxe / Exemplo:**
 
-```
+```java
 class Produto {
     private String nome;
     private double preco;
@@ -154,7 +154,7 @@ São palavras-chave que definem o nível de acesso aos membros (atributos e mét
 
 **Sintaxe / Exemplo:**
 
-```
+```java
 class Exemplo {
     public int publico;
     protected int protegido;
