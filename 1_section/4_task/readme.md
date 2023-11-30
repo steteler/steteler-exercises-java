@@ -19,7 +19,7 @@ Abstração é um conceito na programação que permite focar nos aspectos relev
 **Explicação Simples:**
 Pense na abstração como um controle remoto de TV. Você não precisa saber como ele funciona por dentro, só precisa dos botões para mudar de canal ou ajustar o volume.
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```java
 abstract class Animal {
@@ -43,7 +43,7 @@ Encapsulamento é o conceito de ocultar os detalhes de implementação de uma cl
 **Explicação Simples:**
 É como um cofre. Você não pode ver ou mexer diretamente no que está dentro, só pode interagir com ele usando as funcionalidades oferecidas (como a chave).
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```java
 class Carro {
@@ -70,7 +70,7 @@ Construtores são métodos especiais que inicializam objetos de uma classe. Em J
 **Explicação Simples:**
 O construtor é como uma receita de bolo que define como cada novo bolo (objeto) deve ser feito.
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```
 class Pessoa {
@@ -94,7 +94,7 @@ Atributos de classe pertencem à classe como um todo, enquanto atributos de inst
 **Explicação Simples:**
 Imagine uma escola: o número total de salas é um atributo da escola (atributo de classe), enquanto o nome do aluno é um atributo específico de cada estudante (atributo de instância).
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```java
 class Exemplo {
@@ -125,7 +125,7 @@ Getters são métodos que retornam o valor de atributos privados, e setters são
 **Explicação Simples:**
 Getters são como espiões que trazem informações secretas para você, e setters são como guardiões que cuidam e modificam essas informações secretas.
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```
 class Produto {
@@ -152,7 +152,7 @@ São palavras-chave que definem o nível de acesso aos membros (atributos e mét
 **Explicação Simples:**
 É como as regras de uma festa: público é quando todos podem entrar, protegido é quando apenas os convidados têm acesso e privado é quando apenas você pode entrar no quarto.
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```
 class Exemplo {
@@ -172,7 +172,7 @@ class Exemplo {
 **Explicação Simples:**
 É como se a classe falasse consigo mesma, referindo-se aos seus próprios detalhes.
 
-**Sintaxe/Exemplo do código simples:**
+**Sintaxe / Exemplo:**
 
 ```java
 class Pessoa {
