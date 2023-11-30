@@ -9,6 +9,8 @@
 - [JVM](#-jvm-java-virtual-machine-ou-m%C3%A1quina-virtual-java)
 - [Runtime](#%EF%B8%8F-runtime-tempo-de-execu%C3%A7%C3%A3o)
 
+---
+
 # 🏛 História e Aplicações
 
 O Java nasceu pelas mãos de James Gosling na Sun Microsystems, lá em 1995. Inicialmente, foi batizado de Oak (árvore de carvalho), porém teve que mudar para Java porque já existia outra linguagem com um nome parecido. Aliás, o nome "Java" foi inspirado na bebida café!
@@ -21,6 +23,8 @@ O Java é conhecido por sua filosofia "write once, run anywhere" (escreva uma ve
 
 Basicamente, o Java nasceu na década de 90 e se popularizou por permitir criar programas portáteis entre diferentes plataformas. ☕
 
+---
+
 # 📊 Diagrama JDK, JRE e JVM
 
 Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
@@ -28,6 +32,8 @@ Este diagrama ilustra visualmente a relação entre JDK, JRE e JVM.
 <p align="center">
   <img src="images/diagram" width="100%">
 </p>
+
+---
 
 # 🧰 SDK - Software Development Kit
 
@@ -39,6 +45,8 @@ O JDK inclui o conjunto completo de ferramentas para o desenvolvimento em Java, 
 
 Basicamente, o SDK fornece todas as ferramentas necessárias para o desenvolvimento de software/web e app em uma linguagem específica.
 
+---
+
 # 🧰 JDK - Java Development Kit
 
 O JDK é o principal SDK do Java. Ele contém todas as ferramentas necessárias para criar aplicativos Java, incluindo o compilador que converte o código que os programadores escrevem em instruções compreensíveis pela JVM.
@@ -46,6 +54,8 @@ O JDK é o principal SDK do Java. Ele contém todas as ferramentas necessárias 
 Além disso, o JDK inclui o JRE, que é necessário para executar aplicativos Java no computador. Isso significa que, ao instalar o JDK, você obtém não apenas as ferramentas para desenvolvimento, mas também o ambiente necessário para executar programas Java no seu sistema.
 
 Basicamente, o JDK provê as ferramentas essenciais para desenvolvimento Java.
+
+---
 
 # ⚙️ Javac - Java Compiler
 
@@ -61,6 +71,8 @@ Este compilador faz parte do JDK. Quando os desenvolvedores instalam o JDK, o ja
 
 Basicamente, o javac compila código Java em bytecode executável pela JVM.
 
+---
+
 # 💻 JRE - Java Runtime Environment
 
 O JRE, ou Ambiente de Execução Java, oferece a JVM e as bibliotecas essenciais para rodar aplicativos Java que já foram compilados.
@@ -69,6 +81,8 @@ Normalmente, o JRE já está incluído no JDK, porém também é possível baix�
 
 Basicamente, o JRE provê o ambiente necessário para executar aplicativos Java.
 
+---
+
 # 🤖 JVM - Java Virtual Machine
 
 A JVM, é o ambiente no qual o bytecode Java é executado. Ela faz parte do JRE, sendo essencial para rodar aplicativos Java já compilados.
@@ -76,6 +90,8 @@ A JVM, é o ambiente no qual o bytecode Java é executado. Ela faz parte do JRE,
 A função principal da JVM é interpretar e executar o bytecode gerado a partir do código-fonte Java. Ela permite que programas escritos em Java sejam executados em diferentes plataformas, garantindo a portabilidade do código, já que a JVM é adaptada para cada sistema operacional específico.
 
 Basicamente, a JVM interpreta e executa bytecode Java independente da plataforma.
+
+---
 
 # ⏱️ Runtime Phase - Tempo de Execução
 
@@ -87,21 +103,31 @@ A JVM também administra recursos como memória e processamento, garantindo que 
 
 Basicamente, o runtime é quando o código Java está em execução na JVM.
 
+---
+
 # 📝 Editing Phase - Fase de Edição
 
 A fase de edição refere-se ao momento em que o código-fonte Java está sendo escrito e editado por desenvolvedores. Nesta fase, bugs são corrigidos, melhorias de desempenho são feitas através de refatoração, e novos recursos são adicionados ao código. Ferramentas comuns de edição incluem IDEs (Integrated Development Environments) como Eclipse, IntelliJ e NetBeans.
+
+---
 
 # ☕ Java Compilation Phase - Fase de Compilação Java
 
 A fase de compilação Java pega o código-fonte .java criado na fase de edição e o traduz em bytecode Java (.class files), um formato intermediário otimizado para execução pela Java Virtual Machine (JVM). Esta tradução é feita por um compilador Java como o javac. A principal vantagem da compilação para bytecode é a portabilidade, permitindo que o mesmo código rode em qualquer plataforma com uma JVM instalada.
 
+---
+
 # 📦 Packaging Phase - Fase de Empacotamento
 
 O bytecode compilado é então empacotado juntamente com metadados e recursos em arquivos .jar executáveis na JVM. Ferramentas como o jar lidam com esse empacotamento. Bibliotecas necessárias e outras dependências também podem ser agrupadas.
 
+---
+
 # 💿 Installation Phase - Fase de Instalação
 
 Antes de poder ser executado, o pacote da aplicação Java precisa ser instalado no sistema. Instaladores são gerados para automatizar a instalação do software. Eles lidam com a descompactação dos arquivos, configuração do ambiente e quaisquer tarefas de pré-processamento necessárias.
+
+---
 
 # 🔗 Referências
 
