@@ -8,6 +8,7 @@
 - [Comandos Iniciais](#️-comandos-iniciais-java)
 - [Referências](#-referências)
 
+---
 
 # 🏠 O que são classes no Java?
 
@@ -38,6 +39,7 @@ os objetos terão.
 A partir de uma classe podemos criar muitos objetos com as mesmas características, mas cada um com valores
 distintos, como casas construídas a partir da mesma planta, mas decoradas de forma diferente.
 
+---
 
 # 🚪 O que é o método main no Java?
 
@@ -61,6 +63,7 @@ de entrada é por onde você passa para acessar tudo que está dentro dela.
 No Java, o método main funciona assim: todo o código que estiver dentro dele será executado assim que o programa
 for iniciado, permitindo acessar o restante da aplicação Java a partir daí.
 
+---
 
 # 🔐 O que são modificadores de acesso no Java?
 
@@ -81,6 +84,7 @@ O `private` torna o membro visível apenas dentro da própria classe, como os c�
 
 O `protected` permite acesso para classes do mesmo pacote e sub-classes, um controle intermediário de acesso.
 
+---
 
 # 📦 O que são pacotes no Java? 
 
@@ -102,6 +106,7 @@ classes de cálculos matemáticos, etc.
 Isso ajuda a manter o projeto modularizado e as funcionalidades organizadas, além de evitar conflitos entre
 nomes de classes. É como organizar a cozinha com gavetas para talheres, pratos, temperos e assim por diante.
 
+---
 
 # 🎁 O que são classes wrapper em Java?
 
@@ -118,12 +123,15 @@ para int, comparar valores, obter valores máximos e mínimos, etc.
 Por exemplo, a classe Integer provê métodos úteis para o tipo primitivo int, como parseInt() para converter
 string para int e compareTo() para comparação. Assim fica mais fácil de trabalhar com esses tipos no Java.
 
+---
 
 # 🖥️ Comandos iniciais Java:
 
 - `System.out.print`: imprime um texto na saída padrão sem quebra de linha.
 - `System.out.println`: imprime um texto e depois quebra a linha.  
 - `import`: importa classes de outros pacotes Java.
+
+---
 
 # 🔗 Referências
 
