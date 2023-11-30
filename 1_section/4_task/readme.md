@@ -1,3 +1,14 @@
+# Atalhos 💨
+
+- [O que é Abstração?](#-abstração)
+- [O que é o Encapsulamento?](#-encapsulamento)
+- [O que são Construtores?](#-construtores)
+- [O que são Atributos/Métodos?](#-atributos-/-métodos-de-classe-e-de-instância-e-suas-diferenças)
+- [O que são Getters and Setters?](#-getters-and-setters)
+- [O que são Modificadores de Acesso?](#️-modificadores-de-acesso)
+- [O que é o This?](#️-this)
+- [Referências](#-referências)
+
 # 🧱 Abstração
 
 **Explicação Técnica:**
@@ -73,7 +84,7 @@ class Pessoa {
 
 ---
 
-# 💎 Atributos/Métodos de Classe e de Instância e suas Diferenças
+# 💎 Atributos / Métodos de Classe e de Instância e suas Diferenças
 
 **Explicação Técnica:**
 Atributos de classe pertencem à classe como um todo, enquanto atributos de instância pertencem a instâncias individuais da classe. Métodos de classe operam na classe como um todo, enquanto métodos de instância operam em instâncias específicas.
@@ -174,3 +185,7 @@ class Pessoa {
     }
 }
 ```
+
+# 🔗 Referências
+
+- [Trybe - Aceleração Java](https://betrybe.com/)
