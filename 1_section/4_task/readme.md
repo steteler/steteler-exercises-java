@@ -9,6 +9,8 @@
 - [O que é o This?](#️-this)
 - [Referências](#-referências)
 
+---
+
 # 🧱 Abstração
 
 **Explicação Técnica:**
@@ -185,6 +187,8 @@ class Pessoa {
     }
 }
 ```
+
+---
 
 # 🔗 Referências
 
