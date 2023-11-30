@@ -11,7 +11,7 @@
 
 ---
 
-# 🧱 Abstração
+# 🧩 Abstração
 
 **Explicação Técnica:**
 Abstração é um conceito na programação que permite focar nos aspectos relevantes de um objeto, ignorando detalhes desnecessários. Em linguagens orientadas a objetos, a abstração é implementada através de classes, onde detalhes internos são ocultados e apenas a interface é exposta.
@@ -35,7 +35,7 @@ class Cachorro extends Animal {
 
 ---
 
-# 🏘 Encapsulamento
+# 💊 Encapsulamento
 
 **Explicação Técnica:**
 Encapsulamento é o conceito de ocultar os detalhes de implementação de uma classe e restringir o acesso direto aos dados. Em Java, isso é feito usando modificadores de acesso (public, private, protected) para controlar o acesso aos membros da classe.
